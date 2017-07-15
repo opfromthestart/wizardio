@@ -1,0 +1,10 @@
+body {
+    margin: 0px;
+    overflow: hidden;
+}
+canvas#playerCanvas {
+    position : relative;
+    margin : 0%;
+    background-image : url("floor3.bmp");
+    background-repeat : repeat;
+}
